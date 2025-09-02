@@ -1,2 +1,3 @@
 # Im learning on Machine Learning with .tiff file
-still Noob
+Status - I'm working on this
+# still Noob
